@@ -7,7 +7,13 @@ The source code is free to use for your study and reference.
 Lesson 1 - Connecting to Database
 - Use of sql express or mssql
 - Use of app.config
+- Connection String
 
+*****************************************
+Lesson 2 - Fecthing data from Database
+- Use of Datatable
+- Display Data to DataGridView
+- Connection to DB
 
 *******************************************
 
