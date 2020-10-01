@@ -15,6 +15,13 @@ Lesson 2 - Fecth Data from Database
 - Display Data to DataGridView
 - Connection to DB
 
+*****************************************
+Lesson 3 - Crud & Search
+- Use of Parameters
+- DataGridView and Search
+- Create, Read, Update and Delete Methods
+- Use of Stored Procedures
+
 *******************************************
 
 Be updated for my latest video.
